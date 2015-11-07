@@ -16,6 +16,15 @@ TODO
 ### 集成测试
 TODO
 
+### Sonar质量分析
+TODO
+
+### 签名
+TODO
+
+### 发布
+TODO
+
 ### 持续集成
 持续集成使用 travis ci
 
